@@ -217,7 +217,7 @@ The project demonstrates how raw food-delivery data can be converted into an **i
 
 ## 👨‍💻 Author
 
-**Tim**
+**Aryan**
 
 If you found this project useful, consider ⭐ **starring the repository**!
 

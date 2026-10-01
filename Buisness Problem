@@ -1,0 +1,61 @@
+## 🎯 Business Problem Solved
+
+Food-delivery businesses generate a huge amount of data from orders, customers, restaurants, products, ratings, and locations. However, raw data alone does not clearly show **where the business is performing well, where it is losing opportunities, or what customers prefer**.
+
+This project solves the problem of **turning raw Swiggy sales data into actionable business insights through an interactive dashboard**.
+
+### 🔴 Problems Identified
+
+The business needs to answer several important questions:
+
+* **Sales Performance:** How much revenue is being generated, and how is it changing over time?
+* **Order Performance:** What is the order volume and when does demand increase or decrease?
+* **Customer Behavior:** What do customers prefer to order and how frequently are they ordering?
+* **Product Performance:** Which food items and categories generate the highest sales?
+* **Location Performance:** Which cities/locations are contributing the most to revenue?
+* **Customer Satisfaction:** How are ratings distributed, and which areas/products may require improvement?
+* **Average Order Value:** How much does the average customer spend per order?
+* **Growth Opportunities:** Which products, categories, or locations have potential for improvement?
+* **Performance Monitoring:** How can management monitor important KPIs from one centralized dashboard?
+
+### 💡 How the Dashboard Solves These Problems
+
+The dashboard provides a **single interactive view of business performance** by combining important sales, order, customer, product, location, and rating metrics.
+
+Instead of manually analyzing large datasets, stakeholders can:
+
+1. **Monitor KPIs** such as total sales, total orders, average order value, and ratings.
+2. **Identify high-performing products and categories** using sales and order analysis.
+3. **Compare locations** to understand regional performance.
+4. **Analyze customer preferences** and ordering patterns.
+5. **Track trends over time** to identify changes in demand.
+6. **Identify underperforming areas** that may require further investigation.
+7. **Make data-driven decisions** using interactive filters and visualizations.
+
+### 📊 Business Value
+
+The dashboard helps transform the decision-making process from:
+
+> **Raw Data → Manual Analysis → Delayed Decisions**
+
+into:
+
+> **Data → Interactive Dashboard → Insights → Faster Business Decisions**
+
+### 🚀 Real-World Use Cases
+
+A business analyst or management team could use this dashboard to:
+
+* Plan marketing campaigns around high-demand periods.
+* Identify products/categories that deserve greater attention.
+* Compare regional sales performance.
+* Understand customer purchasing patterns.
+* Monitor changes in revenue and order volume.
+* Investigate low-performing locations or categories.
+* Identify potential areas for business growth.
+
+### 🎯 Final Outcome
+
+The main business problem solved by this project is **the lack of a centralized, easy-to-understand view of food-delivery business performance**.
+
+By converting transactional data into meaningful KPIs and visual insights, the dashboard enables stakeholders to **quickly understand business performance, identify patterns, investigate problem areas, and make more informed decisions.**
